@@ -1,0 +1,20 @@
+{
+  "name": "gg_quest",
+  "version": "1.0.0",
+  "license": "(MIT AND Apache-2.0)",
+  "scripts": {
+    "deploy": "npm run deploy:ggProfiles && npm run deploy:ggQuests",
+    "deploy:ggProfiles": "cd ggProfiles && ./deploy.sh",
+    "deploy:ggQuests": "cd ggQuests && ./deploy.sh",
+    "build:ggProfiles": "cd ggProfiles && ./deploy.sh",
+    "build:ggQuest": "cd ggQuest && ./build.sh",
+    "build:ggQuests": "cd ggQuests && ./build.sh",
+    "test": "cd integration-tests && npm test",
+    "test:integration:ggProfiles": "cd integration-tests && npm run test:ggProfiles",
+    "test:integration:ggQuests": "cd integration-tests && npm run test:ggQuests"
+  },
+  "devDependencies": {
+    "near-cli": "^3.3.0"
+  },
+  "dependencies": {}
+}

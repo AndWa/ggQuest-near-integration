@@ -1,0 +1,1 @@
+/Users/andrej/Web3-Development/near/projects/ggQuest/ggQuest/target/wasm32-unknown-unknown/release/gg_quest.wasm: /Users/andrej/Web3-Development/near/projects/ggQuest/ggQuest/src/events.rs /Users/andrej/Web3-Development/near/projects/ggQuest/ggQuest/src/ext_traits.rs /Users/andrej/Web3-Development/near/projects/ggQuest/ggQuest/src/lib.rs

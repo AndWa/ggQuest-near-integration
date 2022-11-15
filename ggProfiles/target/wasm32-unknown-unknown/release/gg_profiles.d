@@ -1,0 +1,1 @@
+/Users/andrej/Web3-Development/near/projects/ggQuest/ggProfiles/target/wasm32-unknown-unknown/release/gg_profiles.wasm: /Users/andrej/Web3-Development/near/projects/ggQuest/ggProfiles/src/events.rs /Users/andrej/Web3-Development/near/projects/ggQuest/ggProfiles/src/lib.rs
